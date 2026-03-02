@@ -44,7 +44,7 @@ So this is not a black box.
 ```
 pip install sae-lens transformer-lens
 pip install "numpy<2.0.0"
-pip install xgboost kagglehub shap
+pip install xgboost kagglehub 
 ```
 
 ---
